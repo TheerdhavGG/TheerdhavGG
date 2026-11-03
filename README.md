@@ -1,7 +1,11 @@
-# Hi, I'm Theerdhav
+# Theerdhav
 
-I work on Java projects and Minecraft client tooling. My current focus is Fabric development, rendering performance, and practical in-game interfaces.
+I build Java tools for Minecraft, with a focus on Fabric, in-game interfaces, and rendering performance.
 
-- **Development** · Java, Fabric, Gradle, and Mixins
-- **Interests** · Graphics, performance profiling, and UI design
-- **Current work** · Building and testing Minecraft 1.21.11 client features
+| What I work on | What that looks like |
+| --- | --- |
+| Client development | Fabric modules, Mixins, and configurable HUDs |
+| Rendering | Profiling frame costs and testing effects in-game |
+| Reliability | Reproducing bugs, adding focused checks, and keeping builds repeatable |
+
+**Tools:** Java · Gradle · Fabric · Git
